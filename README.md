@@ -1,5 +1,5 @@
 # python-api
-Everything I will be learning on my quest for more api knowledge with python.
+This contains notes I will be taking down on everything I will be learning about building apis with python.
 
 # What is an api?
 An api is essentially an interface to a server that has some data or does some actions.
